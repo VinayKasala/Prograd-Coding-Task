@@ -1,0 +1,21 @@
+.header{
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    color:white;
+    height:8vh
+}
+.nav-links {
+    margin:0 15px;
+    min-width: 10vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.nav-links button{
+    background-color: inherit;
+    color: white;
+}
